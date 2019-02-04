@@ -1,0 +1,131 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+}
+
+.relative {
+    position: relative;
+}
+
+.apply {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    width: 248px !important;
+    height: 60px !important;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.text-blue {
+    color: #0085FF !important;
+}
+
+.text-white{
+    color: white !important;
+}
+
+.mr-left {
+    margin-left: auto !important;
+}
+
+.w-70 {
+    width: 70%;
+    margin: auto;
+}
+
+.keypoint {
+    font-size: 26px;
+    text-decoration: underline;
+    color: #002140;
+}
+
+.steps {
+    font-size: 22px;
+    text-decoration: underline;
+    color: #002140;
+}
+
+.mt {
+    margin-top: 25px;
+}
+
+.key-img {
+    height: 100px;
+    width: 100px;
+}
+.background {
+    height: 465px;
+}
+
+.triangle {
+    position: absolute;
+    right: 0;
+}
+
+.bg-blue {
+    background-color: #002140;
+    height: 465px;
+}
+
+.aboutus {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate(0, -50%);
+}
+
+.aboutus-img {
+    height: 240px;
+    width: 234px;
+    border: 2px solid white;
+}
+
+.aboutus-title {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    text-decoration: underline;
+    color: white;
+
+}
+
+.aboutus-text {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: white;
+    font-size: 20px;
+}
+
+.footerlink {
+    color: black;
+    font-size: 14px;
+}
+
+.blue_footerlink {
+    font-size: 14px;
+}
+
+.img-fluid {
+    font-size: 24px;
+    color: #0A305E;
+}
+
+.btn-primary {
+    background-color: #002140 !important;
+    border-color: #002140 !important;
+}
