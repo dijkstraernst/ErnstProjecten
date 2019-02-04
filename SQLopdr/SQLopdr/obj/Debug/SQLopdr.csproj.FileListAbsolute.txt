@@ -1,0 +1,15 @@
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.csprojResolveAssemblyReference.cache
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.csproj.CoreCompileInputs.cache
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.exe.config
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.exe
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.pdb
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\bin\Debug\MySql.Data.dll
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.exe
+C:\Users\dijks\Source\Repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.pdb
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.csprojResolveAssemblyReference.cache
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.csproj.CoreCompileInputs.cache
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.exe
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\obj\Debug\SQLopdr.pdb
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.exe.config
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.exe
+C:\Users\Ernst\source\repos\SQLopdr\SQLopdr\bin\Debug\SQLopdr.pdb
