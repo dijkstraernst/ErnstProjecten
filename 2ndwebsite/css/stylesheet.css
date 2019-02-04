@@ -1,0 +1,51 @@
+.parallax-container
+{
+    height: 766px;
+}
+
+.header
+{
+    height: 150px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.nav-wrapper
+{
+    background-color: transparent; !important;
+
+}
+
+nav
+{
+    background-color: #660000; !important;
+}
+
+.page-footer {
+    background-color: #660000;!important;
+}
+
+
+.btn
+{
+    background-color: #073763 !important;
+}
+
+body{
+    font-family: 'Merriweather', serif; !important;
+}
+
+.collapsible-header
+{
+    background-color: aliceblue; !important;
+    color: black;
+}
+
